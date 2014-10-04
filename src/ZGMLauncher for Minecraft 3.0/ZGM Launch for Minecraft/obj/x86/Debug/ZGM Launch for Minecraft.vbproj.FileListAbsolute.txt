@@ -1,0 +1,99 @@
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.manifest
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.application
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.TrustInfo.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe.manifest
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.application
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.dll
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.pdb
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.xml
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGM Launch for Minecraft-HTTP 2.1\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.dll
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.pdb
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.xml
+D:\MC-Backup\mc\patch\Launch\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form3.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.vbprojResolveAssemblyReference.cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form3.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGMFunc.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Debug\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe.config
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\Ionic.Zip.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Debug\ZGMFunc.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.vbprojResolveAssemblyReference.cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form1.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form2.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Form3.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM_Launch_for_Minecraft.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Debug\ZGM Launch for Minecraft.vbproj.GenerateResource.Cache

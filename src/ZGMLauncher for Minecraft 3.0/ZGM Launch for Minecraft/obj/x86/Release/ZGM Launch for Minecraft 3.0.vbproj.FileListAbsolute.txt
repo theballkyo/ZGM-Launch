@@ -1,0 +1,27 @@
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\Waffle Regular.otf
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\thaisanslite_r1.ttf
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.exe.config
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\Ionic.Zip.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMCreate Patch.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMFunc.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMLibrary.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMCreate Patch.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMCreate Patch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMLibrary.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\bin\Release\ZGMLibrary.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft 3.0.vbprojResolveAssemblyReference.cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form1.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form2.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form3.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft 3.0.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 3.0\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\Build\ZGM Launch for Minecraft.exe.config
+E:\script\ZGMLauncher 2.2 (Source code)\Build\Waffle Regular.otf
+E:\script\ZGMLauncher 2.2 (Source code)\Build\thaisanslite_r1.ttf
+E:\script\ZGMLauncher 2.2 (Source code)\Build\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\Build\ZGM Launch for Minecraft.xml

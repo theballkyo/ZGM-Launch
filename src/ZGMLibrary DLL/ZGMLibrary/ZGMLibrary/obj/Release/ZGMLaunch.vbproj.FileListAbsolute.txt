@@ -1,0 +1,8 @@
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Release\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Release\ZGMLaunch.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Release\ZGMLaunch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Release\ZGMLaunch.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Release\ZGMLaunch.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Release\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Release\ZGMLaunch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Release\ZGMLaunch.pdb

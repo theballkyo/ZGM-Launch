@@ -1,0 +1,39 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 23/1/2556, 20:20 ¹.
+Description: Failed to start game
+
+java.lang.NullPointerException
+	at cpw.mods.fml.client.TextureFXManager.getEffectTexture(TextureFXManager.java:162)
+	at cpw.mods.fml.client.TextureFXManager.getTextureDimensions(TextureFXManager.java:204)
+	at cpw.mods.fml.client.TextureFXManager.onPreRegisterEffect(TextureFXManager.java:145)
+	at bba.a(RenderEngine.java:475)
+	at net.minecraft.client.Minecraft.a(Minecraft.java:444)
+	at asq.a(SourceFile:56)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:744)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.4.6
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_07, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 441123320 bytes (420 MB) / 514523136 bytes (490 MB) up to 954466304 bytes (910 MB)
+	JVM Flags: 2 total; -Xms512M -Xmx1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.25 FML v4.6.12.511 Minecraft Forge 6.5.0.472 0 mods loaded, 0 mods active
+	LWJGL: 2.8.3
+	OpenGL: Intel(R) HD Graphics GL version 3.1.0 - Build 9.17.10.2828, Intel
+	Is Modded: Definitely; Client brand changed to 'forge,fml'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null

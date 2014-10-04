@@ -1,0 +1,15 @@
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\Ionic.Zip.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\ZGMFunc.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\bin\Release\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form1.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form2.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Form3.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM_Launch_for_Minecraft.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft 2.x.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLauncher for Minecraft 2.2 for Other Server\ZGM Launch for Minecraft\obj\x86\Release\ZGM Launch for Minecraft 2.x.vbprojResolveAssemblyReference.cache

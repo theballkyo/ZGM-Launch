@@ -1,0 +1,12 @@
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\bin\Debug\ZGMCreate Patch.exe.config
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\bin\Debug\ZGMCreate Patch.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\bin\Debug\ZGMCreate Patch.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\bin\Debug\ZGMCreate Patch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\bin\Debug\Ionic.Zip.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate Patch.vbprojResolveAssemblyReference.cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate_Patch.Form1.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate_Patch.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate Patch.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate Patch.exe
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate Patch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMCreate Patch\ZGMCreate Patch\obj\x86\Debug\ZGMCreate Patch.pdb

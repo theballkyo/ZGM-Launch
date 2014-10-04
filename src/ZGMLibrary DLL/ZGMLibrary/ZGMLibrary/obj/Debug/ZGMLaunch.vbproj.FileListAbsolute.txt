@@ -1,0 +1,16 @@
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\bin\Debug\ZGMLaunch.dll
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\bin\Debug\ZGMLaunch.pdb
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\bin\Debug\ZGMLaunch.xml
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\obj\Debug\ZGMLaunch.Resources.resources
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\obj\Debug\ZGMLaunch.vbproj.GenerateResource.Cache
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\obj\Debug\ZGMLaunch.dll
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\obj\Debug\ZGMLaunch.xml
+C:\Users\Gamer\AppData\Local\Temporary Projects\ZGMLaunch\obj\Debug\ZGMLaunch.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Debug\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Debug\ZGMLaunch.pdb
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\bin\Debug\ZGMLaunch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Debug\ZGMLaunch.Resources.resources
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Debug\ZGMLaunch.vbproj.GenerateResource.Cache
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Debug\ZGMLaunch.dll
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Debug\ZGMLaunch.xml
+E:\script\ZGMLauncher 2.2 (Source code)\ZGMLaunch DLL\ZGMLaunch\ZGMLaunch\obj\Debug\ZGMLaunch.pdb
